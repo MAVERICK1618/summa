@@ -1,4 +1,5 @@
-class Solution {
+import java.util.HashMap;
+class java {
     public boolean isIsomorphic(String s, String t) {
 
         if( s.length() != t.length() ){
