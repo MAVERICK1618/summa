@@ -6,7 +6,7 @@ class java {
             return false;
         }
 
-        HashMap<Character , Character> map = new HashMap<>();
+        Map<Character , Character> map = new HashMap<>();
 
         for(int i = 0;i<s.length() ;i++){
             char original = s.charAt(i);
